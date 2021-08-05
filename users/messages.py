@@ -1,0 +1,20 @@
+#constant file consisting of all the return messages
+
+login_success_msg = "you are logged-in successfully"
+failure_msg = "invalid credentials"
+invalid_token_msg = "you are not authenticated to use this API"
+profile_update_success_msg = "information updated successfully"
+password_update_success_msg = "Password successfully updated"
+password_update_failure_msg = "please provide the correct old password"
+exception_msg = "something went wrong"
+flight_booked_success_msg = "flight booked successfully"
+book_flights_msg = "book some flights first"
+user_status_message_msg = "user's status is updated successfully to"
+wrong_status_msg = "invalid status provided"
+flight_success_msg = "flight is registered successfully"
+flight_update_success_msg = "flight updated successfully"
+flight_delete_msg = "flight deleted successfully"
+image_uploaded_msg = "image uploaded successfully"
+activation_success_msg = "you account is activated"
+incorrect_file_format_msg = "please provide a valid file format"
+

@@ -1,0 +1,92 @@
+2021-07-12 17:07:29,965 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-12 17:11:02,695 django       INFO     user registered successfully
+2021-07-12 17:12:39,622 django.request WARNING  Not Found: /favicon.ico
+2021-07-12 17:13:13,984 django.request WARNING  Bad Request: /login
+2021-07-12 17:13:43,796 django       INFO     admin is logged in successfully
+2021-07-12 17:14:36,864 django.request WARNING  Bad Request: /flights
+2021-07-12 17:15:04,843 django       INFO     flight in registered successfully
+2021-07-12 17:15:35,509 django.request WARNING  Bad Request: /flights
+2021-07-12 17:16:30,348 django.request WARNING  Bad Request: /flights
+2021-07-12 17:16:44,005 django       INFO     admin is logged in successfully
+2021-07-12 17:17:00,591 django.request WARNING  Bad Request: /flights
+2021-07-12 17:18:07,749 django.utils.autoreload INFO     D:\internship-project\FlightBookingSystem\users\views.py changed, reloading.
+2021-07-12 17:18:07,753 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-12 17:18:10,229 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-12 17:18:15,360 django       INFO     all the available flights are displayed successfully
+2021-07-12 17:19:42,806 django.request WARNING  Bad Request: /flights/book
+2021-07-18 10:21:53,156 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-18 10:21:56,128 django       INFO     user did not get registered
+2021-07-18 10:21:56,131 django.request WARNING  Bad Request: /register
+2021-07-18 10:22:22,950 django       INFO     user registered successfully
+2021-07-18 10:22:33,373 django       INFO     user is logged in successfully
+2021-07-18 10:23:02,669 django       INFO     flight was booked successfully
+2021-07-18 10:23:36,096 django.utils.autoreload INFO     D:\internship-project\FlightBookingSystem\users\views.py changed, reloading.
+2021-07-18 10:23:36,098 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-18 10:23:38,039 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-18 10:23:52,920 django.request WARNING  Bad Request: /flights
+2021-07-18 10:24:01,831 django       INFO     all the available flights are displayed successfully
+2021-07-18 10:24:15,916 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-18 10:24:16,178 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 12:47:35,682 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 12:48:05,189 django       INFO     user is logged in successfully
+2021-07-19 12:49:26,084 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.
+2021-07-19 12:49:26,084 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 12:49:26,905 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 12:54:19,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 12:54:27,398 django       INFO     user is logged in successfully
+2021-07-19 12:55:50,957 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.
+2021-07-19 12:55:50,957 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 12:57:22,053 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 12:57:54,168 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 12:57:54,233 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 13:03:02,416 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 13:03:06,276 django       INFO     user is logged in successfully
+2021-07-19 13:03:45,736 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.
+2021-07-19 13:03:45,736 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 13:03:46,002 asyncio      DEBUG    Using proactor: IocpProactor
+[32mINFO    [0m [34mWatching for file changes with StatReloader[0m
+[32mINFO    [0m [34muser is logged in successfully[0m
+[33mWARNING [0m [34mBad Request: /flights/book/24[0m
+[32mINFO    [0m [34mall the flights booked by a user is displayed successfully[0m
+[32mINFO    [0m [34muser is logged in successfully[0m
+[32mINFO    [0m [34mD:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.[0m
+[37mDEBUG   [0m [34mUsing proactor: IocpProactor[0m
+2021-07-19 13:10:11,095 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 13:10:18,223 django       INFO     user is logged in successfully
+2021-07-19 13:11:38,809 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 13:11:44,032 django       INFO     user is logged in successfully
+2021-07-19 13:11:50,869 django       INFO     all the flights booked by a user is displayed successfully
+2021-07-19 13:12:20,917 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.
+2021-07-19 13:12:20,917 asyncio      DEBUG    Using proactor: IocpProactor
+[32mINFO    [0m [34mWatching for file changes with StatReloader[0m
+[32mINFO    [0m [34mall the flights booked by a user is displayed successfully[0m
+[32mINFO    [0m [34mD:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.[0m
+[37mDEBUG   [0m [34mUsing proactor: IocpProactor[0m
+2021-07-19 13:14:29,256 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 13:14:32,066 django       INFO     all the flights booked by a user is displayed successfully
+2021-07-19 13:14:40,153 django       INFO     all the flights booked by a user is displayed successfully
+2021-07-19 13:14:44,659 django       INFO     all the flights booked by a user is displayed successfully
+2021-07-19 13:15:12,143 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.
+2021-07-19 13:15:12,143 asyncio      DEBUG    Using proactor: IocpProactor
+[32mINFO    [0m [34mWatching for file changes with StatReloader[0m
+[32mINFO    [0m [34mall the flights booked by a user is displayed successfully[0m
+[32mINFO    [0m [34mD:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.[0m
+[37mDEBUG   [0m [34mUsing proactor: IocpProactor[0m
+[32m2021-07-19 13:16:29,357 django.utils.autoreload INFO     Watching for file changes with StatReloader[0m
+[32m2021-07-19 13:16:30,532 django       INFO     all the flights booked by a user is displayed successfully[0m
+[32m2021-07-19 13:17:20,536 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.[0m
+[37m2021-07-19 13:17:20,536 asyncio      DEBUG    Using proactor: IocpProactor[0m
+[32m 2021-07-19 13:17:21,224 django.utils.autoreload INFO     Watching for file changes with StatReloader[0m
+[32m 2021-07-19 13:17:24,903 django       INFO     all the flights booked by a user is displayed successfully[0m
+[32m 2021-07-19 13:19:34,233 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.[0m
+[37m 2021-07-19 13:19:34,234 asyncio      DEBUG    Using proactor: IocpProactor[0m
+[32m 2021-07-19 13:19:34,911 django.utils.autoreload INFO     Watching for file changes with StatReloader[0m
+[32m 2021-07-19 13:19:49,264 django       INFO     all the flights booked by a user is displayed successfully[0m
+[33m 2021-07-19 13:19:57,134 django.request WARNING  Bad Request: /flights[0m
+[32m 2021-07-19 13:20:08,691 django       INFO     error occurred while displaying flights booked by a user[0m
+[33m 2021-07-19 13:20:08,692 django.request WARNING  Bad Request: /flights/book/24[0m
+[32m 2021-07-19 13:21:12,082 django.utils.autoreload INFO     D:\internship\internship-project\FlightBookingSystem\FlightBookingSystem\settings.py changed, reloading.[0m
+[37m 2021-07-19 13:21:12,084 asyncio      DEBUG    Using proactor: IocpProactor[0m
+2021-07-19 13:21:12,813 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-07-19 13:43:30,123 asyncio      DEBUG    Using proactor: IocpProactor
+2021-07-19 13:43:30,246 asyncio      DEBUG    Using proactor: IocpProactor
